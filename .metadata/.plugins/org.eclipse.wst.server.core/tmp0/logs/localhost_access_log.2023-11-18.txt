@@ -1,0 +1,16 @@
+127.0.0.1 - - [18/Nov/2023:15:29:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:29:39 +0530] "GET /Servlet_Hotel_management/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:29:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:29:55 +0530] "GET /Servlet_Hotel_management/loginpage?name=ram&pass=ram&sub=login HTTP/1.1" 200 306
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:29:57 +0530] "GET /Servlet_Hotel_management/viewHotelInfo_contrurl HTTP/1.1" 500 712
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:30:00 +0530] "GET /Servlet_Hotel_management/updateHotelInfo_Conurl?id1=2&contact=45674586&email=fhirhe&location=gfejrguyer&address=ferkuvery HTTP/1.1" 200 774
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:30:03 +0530] "GET /Servlet_Hotel_management/updateHotelInfo_Conurl?id=2&Contact=45674586&Email=fhirhe&Location=gfejrguyer&Address=ferkuvery&sub=Update HTTP/1.1" 500 306
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:36:50 +0530] "GET /Servlet_Hotel_management/addHotel_Controllerurl HTTP/1.1" 500 633
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:36:53 +0530] "GET /Servlet_Hotel_management/viewHotelurl HTTP/1.1" 200 870
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:36:58 +0530] "GET /Servlet_Hotel_management/loginpage?name=ram&pass=ram&sub=login HTTP/1.1" 200 306
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:37:01 +0530] "GET /Servlet_Hotel_management/viewHotelurl HTTP/1.1" 200 870
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:37:09 +0530] "GET /Servlet_Hotel_management/AddHotelInfo_Controllerurl HTTP/1.1" 200 979
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:37:12 +0530] "GET /Servlet_Hotel_management/viewHotelInfo_contrurl HTTP/1.1" 500 712
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:37:15 +0530] "GET /Servlet_Hotel_management/updateHotelInfo_Conurl?id1=2&contact=45674586&email=fhirhe&location=gfejrguyer&address=ferkuvery HTTP/1.1" 200 774
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:37:25 +0530] "GET /Servlet_Hotel_management/updateHotelInfo_Conurl?id=7&Contact=45674586&Email=fhirhe&Location=gfejrguyer&Address=ferkuvery&sub=Update HTTP/1.1" 500 306
+0:0:0:0:0:0:0:1 - - [18/Nov/2023:15:37:28 +0530] "GET /Servlet_Hotel_management/viewHotelInfo_contrurl HTTP/1.1" 500 712

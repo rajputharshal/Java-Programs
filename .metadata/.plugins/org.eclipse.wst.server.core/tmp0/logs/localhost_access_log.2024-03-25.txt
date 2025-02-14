@@ -1,0 +1,13 @@
+127.0.0.1 - - [25/Mar/2024:18:55:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:55:17 +0530] "GET /jsp_practice/table.jsp HTTP/1.1" 200 578
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:55:17 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:55:24 +0530] "GET /jsp_practice/table.jsp?a=&s=Table HTTP/1.1" 500 2682
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:56:41 +0530] "GET /jsp_practice/addtion.jsp HTTP/1.1" 200 519
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:56:42 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:56:55 +0530] "GET /jsp_practice/addtion.jsp?a=8&b=4&s=result HTTP/1.1" 200 549
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:58:00 +0530] "GET /jspapp1/table.jsp HTTP/1.1" 200 871
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:18:58:07 +0530] "GET /jspapp1/table.jsp?no=9&s=Result HTTP/1.1" 200 1728
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:19:12:07 +0530] "GET /jspapp1/errorPage.jsp HTTP/1.1" 200 466
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:19:12:08 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:19:12:11 +0530] "GET /jspapp1/errorPage.jsp?ft=&sd=&b=add HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [25/Mar/2024:19:12:27 +0530] "GET /jspapp1/errorPage.jsp?ft=4&sd=0&b=add HTTP/1.1" 200 154

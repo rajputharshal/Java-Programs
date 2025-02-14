@@ -1,0 +1,1428 @@
+
+Oct 14, 2023 09:46:01.124 NEW SESSION
+Oct 14, 2023 09:46:01.124 [12396:8176:1014/094601.116:ERROR:device_event_log_impl.cc(192)] [09:46:01.115] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 09:46:03.307 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 09:57:54.432 [14644:16308:1014/095754.428:ERROR:device_event_log_impl.cc(192)] [09:57:54.428] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 09:57:55.306 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:11:08.277 [18224:19056:1014/101108.267:ERROR:device_event_log_impl.cc(192)] [10:11:08.267] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:11:10.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:12:56.876 [15948:10704:1014/101256.872:ERROR:device_event_log_impl.cc(192)] [10:12:56.872] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:12:58.374 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:14:36.04 [18392:16472:1014/101435.996:ERROR:device_event_log_impl.cc(192)] [10:14:35.996] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:14:38.667 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:18:17.522 [11600:17544:1014/101817.521:ERROR:device_event_log_impl.cc(192)] [10:18:17.521] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:18:17.957 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:19:02.284 [7684:14988:1014/101902.279:ERROR:device_event_log_impl.cc(192)] [10:19:02.279] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:19:02.733 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:19:39.660 [4820:7236:1014/101939.653:ERROR:device_event_log_impl.cc(192)] [10:19:39.653] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:21:53.698 [12316:19128:1014/102153.681:ERROR:device_event_log_impl.cc(192)] [10:21:53.681] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:22:26.882 [14768:12160:1014/102226.879:ERROR:device_event_log_impl.cc(192)] [10:22:26.878] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:22:27.594 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:30:35.941 [8324:10400:1014/103035.937:ERROR:device_event_log_impl.cc(192)] [10:30:35.937] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:30:37.379 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:34:17.90 [16120:3884:1014/103417.085:ERROR:device_event_log_impl.cc(192)] [10:34:17.085] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:35:05.492 [6996:19132:1014/103505.487:ERROR:device_event_log_impl.cc(192)] [10:35:05.487] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:35:07.706 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:35:43.821 [16472:14228:1014/103543.817:ERROR:device_event_log_impl.cc(192)] [10:35:43.817] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:36:59.822 [8448:15848:1014/103659.818:ERROR:device_event_log_impl.cc(192)] [10:36:59.817] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:37:00.334 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:38:18.448 [7452:18748:1014/103818.442:ERROR:device_event_log_impl.cc(192)] [10:38:18.442] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:38:18.932 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:48:23.649 [7408:15980:1014/104823.645:ERROR:device_event_log_impl.cc(192)] [10:48:23.645] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:48:24.834 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 10:54:35.75 [15872:16080:1014/105435.072:ERROR:device_event_log_impl.cc(192)] [10:54:35.071] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 10:54:36.416 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 11:02:34.119 [13548:9052:1014/110234.115:ERROR:device_event_log_impl.cc(192)] [11:02:34.115] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 11:02:34.599 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 14, 2023 15:51:54.984 NEW SESSION
+Oct 14, 2023 15:51:54.985 [11496:19268:1014/155154.975:ERROR:device_event_log_impl.cc(192)] [15:51:54.968] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 15:51:56.751 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2023 15:52:51.156 [4260:11620:1014/155251.152:ERROR:device_event_log_impl.cc(192)] [15:52:51.151] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 15:52:52.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 14, 2023 15:54:35.808 NEW SESSION
+Oct 14, 2023 15:54:35.810 [5952:17380:1014/155435.794:ERROR:device_event_log_impl.cc(192)] [15:54:35.795] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 14, 2023 15:54:37.259 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 16, 2023 11:25:37.250 NEW SESSION
+Oct 16, 2023 11:25:37.250 [644:8176:1016/112537.247:ERROR:device_event_log_impl.cc(192)] [11:25:37.246] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 11:25:43.335 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 11:34:10.179 [6376:20096:1016/113410.164:ERROR:device_event_log_impl.cc(192)] [11:34:10.164] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 11:34:10.787 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 12:16:19.543 [14376:11268:1016/121619.539:ERROR:device_event_log_impl.cc(192)] [12:16:19.539] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:19:59.475 [20348:15776:1016/131959.462:ERROR:device_event_log_impl.cc(192)] [13:19:59.459] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:21:36.15 [18776:13944:1016/132136.010:ERROR:device_event_log_impl.cc(192)] [13:21:36.009] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:21:36.836 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 13:39:14.356 [19404:10504:1016/133912.181:ERROR:device_event_log_impl.cc(192)] [13:39:12.181] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:39:17.112 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 13:40:30.430 [2168:2376:1016/134030.424:ERROR:device_event_log_impl.cc(192)] [13:40:30.424] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:40:30.849 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 13:41:01.475 [15320:6848:1016/134101.470:ERROR:device_event_log_impl.cc(192)] [13:41:01.470] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:41:42.800 [7536:2844:1016/134142.795:ERROR:device_event_log_impl.cc(192)] [13:41:42.795] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:41:43.972 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 13:51:57.571 [20924:7044:1016/135157.566:ERROR:device_event_log_impl.cc(192)] [13:51:57.567] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:52:53.710 [11404:1572:1016/135253.705:ERROR:device_event_log_impl.cc(192)] [13:52:53.705] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 13:52:54.449 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:02:13.354 [6408:2168:1016/140213.349:ERROR:device_event_log_impl.cc(192)] [14:02:13.349] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:02:13.862 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:11:33.37 [12324:17324:1016/141133.032:ERROR:device_event_log_impl.cc(192)] [14:11:33.032] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:11:33.541 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:17:36.107 [19124:4124:1016/141736.103:ERROR:device_event_log_impl.cc(192)] [14:17:36.103] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:17:36.617 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:19:38.790 [17656:9412:1016/141938.774:ERROR:device_event_log_impl.cc(192)] [14:19:38.774] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:19:39.543 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:26:08.193 [18140:18816:1016/142608.187:ERROR:device_event_log_impl.cc(192)] [14:26:08.187] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:26:09.456 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:35:09.608 [13392:16720:1016/143509.600:ERROR:device_event_log_impl.cc(192)] [14:35:09.599] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:35:10.432 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:36:10.213 [20808:9560:1016/143610.208:ERROR:device_event_log_impl.cc(192)] [14:36:10.207] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:36:10.981 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:36:43.798 [7940:17000:1016/143643.792:ERROR:device_event_log_impl.cc(192)] [14:36:43.792] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:36:46.190 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:37:11.863 [16404:21056:1016/143711.857:ERROR:device_event_log_impl.cc(192)] [14:37:11.858] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:37:12.417 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:37:53.29 [12636:18856:1016/143753.023:ERROR:device_event_log_impl.cc(192)] [14:37:53.022] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:37:53.446 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:42:00.376 [20212:20544:1016/144200.368:ERROR:device_event_log_impl.cc(192)] [14:42:00.368] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:42:00.747 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:43:22.60 [19232:5160:1016/144322.054:ERROR:device_event_log_impl.cc(192)] [14:43:22.053] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:43:23.224 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:49:14.784 [15152:15776:1016/144914.779:ERROR:device_event_log_impl.cc(192)] [14:49:14.779] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:49:15.202 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 14:55:08.495 [20960:19448:1016/145508.490:ERROR:device_event_log_impl.cc(192)] [14:55:08.490] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 14:55:08.897 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:01:03.593 [20968:6152:1016/150103.588:ERROR:device_event_log_impl.cc(192)] [15:01:03.588] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:01:04.527 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:06:14.298 [17072:10480:1016/150614.290:ERROR:device_event_log_impl.cc(192)] [15:06:14.290] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:06:16.449 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:12:15.653 [12636:7268:1016/151215.639:ERROR:device_event_log_impl.cc(192)] [15:12:15.639] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:12:16.172 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:17:24.30 [14360:14872:1016/151724.023:ERROR:device_event_log_impl.cc(192)] [15:17:24.022] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:18:14.441 [18916:10968:1016/151814.428:ERROR:device_event_log_impl.cc(192)] [15:18:14.428] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:18:15.805 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:19:33.66 [16044:17804:1016/151933.059:ERROR:device_event_log_impl.cc(192)] [15:19:33.059] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:19:35.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:20:43.439 [18876:20180:1016/152043.435:ERROR:device_event_log_impl.cc(192)] [15:20:43.435] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:20:45.956 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:21:20.598 [12884:14096:1016/152120.593:ERROR:device_event_log_impl.cc(192)] [15:21:20.593] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:21:22.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:23:28.837 [4020:20900:1016/152328.828:ERROR:device_event_log_impl.cc(192)] [15:23:28.828] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:23:30.401 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:24:31.95 [20084:13064:1016/152431.088:ERROR:device_event_log_impl.cc(192)] [15:24:31.089] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:24:31.469 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:25:08.493 [14792:6492:1016/152508.488:ERROR:device_event_log_impl.cc(192)] [15:25:08.488] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:25:09.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:26:05.951 [9788:15476:1016/152605.946:ERROR:device_event_log_impl.cc(192)] [15:26:05.945] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:26:07.562 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:27:35.61 [16224:6652:1016/152735.055:ERROR:device_event_log_impl.cc(192)] [15:27:35.055] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:27:35.970 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:28:55.150 [15976:7336:1016/152855.146:ERROR:device_event_log_impl.cc(192)] [15:28:55.146] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:28:55.575 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:30:16.567 [464:9964:1016/153016.560:ERROR:device_event_log_impl.cc(192)] [15:30:16.560] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:30:17.892 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:30:47.681 [20128:19300:1016/153047.580:ERROR:device_event_log_impl.cc(192)] [15:30:47.581] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:30:47.977 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:31:07.15 [2336:21020:1016/153107.010:ERROR:device_event_log_impl.cc(192)] [15:31:07.010] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:31:07.448 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:32:08.748 [20408:9820:1016/153208.743:ERROR:device_event_log_impl.cc(192)] [15:32:08.743] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:32:09.118 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:32:39.108 [20524:4232:1016/153239.102:ERROR:device_event_log_impl.cc(192)] [15:32:39.102] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:32:40.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:56:05.124 [2844:19360:1016/155605.119:ERROR:device_event_log_impl.cc(192)] [15:56:05.118] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:56:06.950 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 15:57:26.662 [5164:17864:1016/155726.656:ERROR:device_event_log_impl.cc(192)] [15:57:26.656] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 15:57:27.382 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 16:24:33.885 [9856:12928:1016/162433.879:ERROR:device_event_log_impl.cc(192)] [16:24:33.879] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 16:24:34.920 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 16:27:43.889 [12824:19516:1016/162743.883:ERROR:device_event_log_impl.cc(192)] [16:27:43.882] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 16:27:44.264 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 16:28:01.317 [21180:20652:1016/162801.312:ERROR:device_event_log_impl.cc(192)] [16:28:01.312] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 16:28:02.151 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 16:29:09.888 [21224:1820:1016/162909.875:ERROR:device_event_log_impl.cc(192)] [16:29:09.875] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 16:29:10.245 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 17:36:28.866 [18796:11456:1016/173628.861:ERROR:device_event_log_impl.cc(192)] [17:36:28.862] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 17:36:29.319 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 17:37:32.464 [20440:18468:1016/173732.458:ERROR:device_event_log_impl.cc(192)] [17:37:32.457] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:24:33.417 [11300:18436:1016/182433.412:ERROR:device_event_log_impl.cc(192)] [18:24:33.412] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:24:33.761 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 18:29:38.563 [16092:19404:1016/182938.558:ERROR:device_event_log_impl.cc(192)] [18:29:38.557] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:29:38.990 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 18:34:06.79 [9088:9160:1016/183406.074:ERROR:device_event_log_impl.cc(192)] [18:34:06.074] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:34:06.747 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 18:34:45.913 [13296:5960:1016/183445.908:ERROR:device_event_log_impl.cc(192)] [18:34:45.908] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:34:46.298 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 18:35:21.868 [21384:10420:1016/183521.862:ERROR:device_event_log_impl.cc(192)] [18:35:21.861] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:35:24.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 18:35:57.523 [18328:15720:1016/183557.517:ERROR:device_event_log_impl.cc(192)] [18:35:57.516] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:35:58.272 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 18:40:30.271 [10776:12224:1016/184030.265:ERROR:device_event_log_impl.cc(192)] [18:40:30.265] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:40:48.236 [2052:18156:1016/184048.229:ERROR:device_event_log_impl.cc(192)] [18:40:48.228] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 18:40:49.267 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 19:16:24.647 [10252:21396:1016/191624.637:ERROR:device_event_log_impl.cc(192)] [19:16:24.638] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 19:17:09.624 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 19:18:14.893 [10252:21396:1016/191814.893:ERROR:device_event_log_impl.cc(192)] [19:18:14.892] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Oct 16, 2023 22:46:36.999 NEW SESSION
+Oct 16, 2023 22:46:36.999 [8368:8324:1016/224636.966:ERROR:device_event_log_impl.cc(192)] [22:46:36.961] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 22:46:39.877 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 23:03:33.399 [10380:5780:1016/230333.378:ERROR:device_event_log_impl.cc(192)] [23:03:33.378] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 23:03:34.918 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 23:04:42.304 [10364:11632:1016/230442.298:ERROR:device_event_log_impl.cc(192)] [23:04:42.298] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 23:04:43.145 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 16, 2023 23:27:26.630 [7400:12280:1016/232726.624:ERROR:device_event_log_impl.cc(192)] [23:27:26.624] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 23:27:29.974 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 17, 2023 08:58:53.329 NEW SESSION
+Oct 17, 2023 08:58:53.329 [11072:11076:1017/085853.306:ERROR:device_event_log_impl.cc(192)] [08:58:53.306] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 08:59:12.362 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 09:08:59.222 [1420:11008:1017/090859.216:ERROR:device_event_log_impl.cc(192)] [09:08:59.216] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 09:09:30.153 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 09:10:42.974 [7788:1488:1017/091042.972:ERROR:device_event_log_impl.cc(192)] [09:10:42.972] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 09:10:56.693 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 09:14:42.711 [1740:12100:1017/091442.701:ERROR:device_event_log_impl.cc(192)] [09:14:42.700] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 09:14:43.316 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 09:15:10.84 [4612:3036:1017/091510.079:ERROR:device_event_log_impl.cc(192)] [09:15:10.078] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 09:17:48.710 [6680:11252:1017/091748.704:ERROR:device_event_log_impl.cc(192)] [09:17:48.704] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 09:17:50.247 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 09:19:56.142 [8260:3656:1017/091956.126:ERROR:device_event_log_impl.cc(192)] [09:19:56.136] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 09:19:56.776 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 17, 2023 19:16:48.93 NEW SESSION
+Oct 17, 2023 19:16:48.98 [5580:10532:1017/191648.925:ERROR:device_event_log_impl.cc(192)] [19:16:48.923] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 19:49:27.59 [9328:10944:1017/194927.588:ERROR:device_event_log_impl.cc(192)] [19:49:27.588] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 19:49:28.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 19:54:27.22 [5668:8708:1017/195427.213:ERROR:device_event_log_impl.cc(192)] [19:54:27.212] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 19:54:32.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 19:55:18.41 [5436:4912:1017/195518.413:ERROR:device_event_log_impl.cc(192)] [19:55:18.412] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 19:55:18.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 20:00:52.08 [7300:3656:1017/200052.087:ERROR:device_event_log_impl.cc(192)] [20:00:52.094] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 20:00:52.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 17, 2023 20:03:28.77 [4732:2696:1017/200328.767:ERROR:device_event_log_impl.cc(192)] [20:03:28.767] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 17, 2023 20:03:30.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 18, 2023 10:57:02.37 NEW SESSION
+Oct 18, 2023 10:57:02.43 [2184:5512:1018/105702.366:ERROR:device_event_log_impl.cc(192)] [10:57:02.362] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 10:57:04.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 10:58:12.23 [7448:5312:1018/105812.230:ERROR:device_event_log_impl.cc(192)] [10:58:12.231] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 10:58:12.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:02:08.05 [11884:12236:1018/110208.049:ERROR:device_event_log_impl.cc(192)] [11:02:08.049] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:02:09.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:04:40.28 [6332:9816:1018/110440.284:ERROR:device_event_log_impl.cc(192)] [11:04:40.284] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:04:40.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:07:55.70 [2064:2672:1018/110755.699:ERROR:device_event_log_impl.cc(192)] [11:07:55.698] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:07:56.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:09:15.78 [9188:4748:1018/110915.781:ERROR:device_event_log_impl.cc(192)] [11:09:15.781] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:09:16.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:10:14.04 [10948:2908:1018/111014.035:ERROR:device_event_log_impl.cc(192)] [11:10:14.035] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:10:15.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:11:45.12 [7656:8476:1018/111145.121:ERROR:device_event_log_impl.cc(192)] [11:11:45.121] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:11:45.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:21:45.47 [9592:7420:1018/112145.472:ERROR:device_event_log_impl.cc(192)] [11:21:45.472] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:21:45.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:23:06.97 [1000:156:1018/112306.972:ERROR:device_event_log_impl.cc(192)] [11:23:06.972] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:23:08.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:24:14.95 [9524:1928:1018/112414.949:ERROR:device_event_log_impl.cc(192)] [11:24:14.949] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:24:35.38 [9224:3820:1018/112435.374:ERROR:device_event_log_impl.cc(192)] [11:24:35.374] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:24:38.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 11:25:42.79 [11448:10836:1018/112542.795:ERROR:device_event_log_impl.cc(192)] [11:25:42.796] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 11:25:43.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 18, 2023 14:14:57.81 NEW SESSION
+Oct 18, 2023 14:14:57.83 [11168:10936:1018/141457.798:ERROR:device_event_log_impl.cc(192)] [14:14:57.798] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:15:34.93 [2076:3948:1018/141534.939:ERROR:device_event_log_impl.cc(192)] [14:15:34.945] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:38:58.10 [1588:3096:1018/143858.102:ERROR:device_event_log_impl.cc(192)] [14:38:58.103] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:39:00.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 14:42:05.64 [3728:3804:1018/144205.638:ERROR:device_event_log_impl.cc(192)] [14:42:05.638] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:42:07.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 14:43:08.74 [4488:7156:1018/144308.744:ERROR:device_event_log_impl.cc(192)] [14:43:08.744] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:43:10.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 14:44:05.15 [10696:10320:1018/144405.149:ERROR:device_event_log_impl.cc(192)] [14:44:05.149] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:44:05.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 14:47:06.45 [9068:3912:1018/144706.450:ERROR:device_event_log_impl.cc(192)] [14:47:06.450] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 14:47:06.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:06:24.71 [6120:12252:1018/150624.709:ERROR:device_event_log_impl.cc(192)] [15:06:24.709] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:06:26.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:11:25.74 [4328:9356:1018/151125.734:ERROR:device_event_log_impl.cc(192)] [15:11:25.734] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:11:26.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:19:32.83 [1148:11932:1018/151932.824:ERROR:device_event_log_impl.cc(192)] [15:19:32.824] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:19:34.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:20:05.89 [11968:8864:1018/152005.880:ERROR:device_event_log_impl.cc(192)] [15:20:05.889] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:20:06.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:20:54.96 [7536:9812:1018/152054.960:ERROR:device_event_log_impl.cc(192)] [15:20:54.960] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:21:00.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:27:54.12 [9012:7216:1018/152754.123:ERROR:device_event_log_impl.cc(192)] [15:27:54.123] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:28:27.45 [9356:8876:1018/152827.443:ERROR:device_event_log_impl.cc(192)] [15:28:27.443] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:31:01.06 [10464:11592:1018/153101.065:ERROR:device_event_log_impl.cc(192)] [15:31:01.065] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:31:02.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:32:29.76 [6224:1392:1018/153229.764:ERROR:device_event_log_impl.cc(192)] [15:32:29.772] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:32:30.14 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:34:13.17 [1112:8932:1018/153413.164:ERROR:device_event_log_impl.cc(192)] [15:34:13.164] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:34:13.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 15:52:30.20 [5212:8856:1018/155230.201:ERROR:device_event_log_impl.cc(192)] [15:52:30.200] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 15:52:33.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 16:08:33.09 [9120:11484:1018/160833.096:ERROR:device_event_log_impl.cc(192)] [16:08:33.104] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 16:08:33.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 16:09:25.14 [8328:8100:1018/160925.137:ERROR:device_event_log_impl.cc(192)] [16:09:25.137] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 16:09:25.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 16:17:13.66 [12272:1344:1018/161713.652:ERROR:device_event_log_impl.cc(192)] [16:17:13.652] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 16:17:14.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 16:19:06.63 [6736:6644:1018/161906.626:ERROR:device_event_log_impl.cc(192)] [16:19:06.626] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 16:19:08.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 16:34:01.16 [3788:7808:1018/163401.164:ERROR:device_event_log_impl.cc(192)] [16:34:01.164] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 16:34:01.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 17:46:46.97 [1580:3124:1018/174646.974:ERROR:device_event_log_impl.cc(192)] [17:46:46.974] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 17:46:48.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 17:48:20.97 [1416:11676:1018/174820.975:ERROR:device_event_log_impl.cc(192)] [17:48:20.974] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 17:48:22.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 17:50:36.45 [6068:8288:1018/175036.451:ERROR:device_event_log_impl.cc(192)] [17:50:36.451] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 17:50:38.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 17:56:41.29 [11916:11740:1018/175641.295:ERROR:device_event_log_impl.cc(192)] [17:56:41.294] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 17:56:42.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 17:59:17.53 [2564:8048:1018/175917.533:ERROR:device_event_log_impl.cc(192)] [17:59:17.533] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 17:59:17.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 18:04:21.21 [9304:1584:1018/180421.208:ERROR:device_event_log_impl.cc(192)] [18:04:21.208] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 18:04:21.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 18:04:48.08 [11220:4004:1018/180448.040:ERROR:device_event_log_impl.cc(192)] [18:04:48.040] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 18:04:49.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 18:05:25.84 [1348:10180:1018/180525.839:ERROR:device_event_log_impl.cc(192)] [18:05:25.839] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 18:05:27.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 18:06:22.69 [11928:11664:1018/180622.690:ERROR:device_event_log_impl.cc(192)] [18:06:22.690] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 18:06:27.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 18:12:20.70 [3196:1416:1018/181220.702:ERROR:device_event_log_impl.cc(192)] [18:12:20.701] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 18:12:21.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 18:15:18.27 [3784:8028:1018/181518.271:ERROR:device_event_log_impl.cc(192)] [18:15:18.271] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 18:15:20.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 18, 2023 21:25:39.95 NEW SESSION
+Oct 18, 2023 21:25:39.99 [9644:2092:1018/212539.948:ERROR:device_event_log_impl.cc(192)] [21:25:39.943] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 21:25:41.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 21:29:29.00 [3212:11048:1018/212928.997:ERROR:device_event_log_impl.cc(192)] [21:29:28.997] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 21:29:29.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 21:31:50.52 [5164:11424:1018/213150.522:ERROR:device_event_log_impl.cc(192)] [21:31:50.522] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 21:31:51.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 21:36:04.95 [8980:7792:1018/213604.956:ERROR:device_event_log_impl.cc(192)] [21:36:04.956] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 21:36:05.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 21:38:26.22 [8980:7792:1018/213826.222:ERROR:device_event_log_impl.cc(192)] [21:38:26.222] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 18, 2023 21:38:36.60 [8980:7792:1018/213836.602:ERROR:device_event_log_impl.cc(192)] [21:38:36.615] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 18, 2023 21:38:37.66 [8980:7792:1018/213837.665:ERROR:device_event_log_impl.cc(192)] [21:38:37.671] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 18, 2023 21:52:10.22 [4588:8180:1018/215210.223:ERROR:device_event_log_impl.cc(192)] [21:52:10.223] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 21:52:10.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:31:05.47 [10876:2820:1018/223105.472:ERROR:device_event_log_impl.cc(192)] [22:31:05.473] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:31:05.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:33:00.24 [7548:5940:1018/223300.239:ERROR:device_event_log_impl.cc(192)] [22:33:00.239] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:33:00.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:33:21.71 [6508:1868:1018/223321.711:ERROR:device_event_log_impl.cc(192)] [22:33:21.710] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:33:23.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:35:16.45 [1484:10720:1018/223516.448:ERROR:device_event_log_impl.cc(192)] [22:35:16.449] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:35:18.14 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:37:15.23 [7100:4004:1018/223715.227:ERROR:device_event_log_impl.cc(192)] [22:37:15.227] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:37:15.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:40:13.67 [4756:11980:1018/224013.671:ERROR:device_event_log_impl.cc(192)] [22:40:13.670] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:40:15.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:47:58.18 [3804:10136:1018/224758.185:ERROR:device_event_log_impl.cc(192)] [22:47:58.184] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:47:59.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:54:20.38 [364:1216:1018/225420.383:ERROR:device_event_log_impl.cc(192)] [22:54:20.383] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:54:20.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 22:56:03.36 [7924:5404:1018/225603.357:ERROR:device_event_log_impl.cc(192)] [22:56:03.355] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 22:56:04.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 23:11:49.38 [11864:8256:1018/231149.383:ERROR:device_event_log_impl.cc(192)] [23:11:49.382] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 23:11:50.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 23:13:33.99 [3044:2848:1018/231333.985:ERROR:device_event_log_impl.cc(192)] [23:13:33.985] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 23:13:34.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 18, 2023 23:18:35.16 [7200:7520:1018/231835.160:ERROR:device_event_log_impl.cc(192)] [23:18:35.160] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 18, 2023 23:18:35.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 19, 2023 10:10:53.51 NEW SESSION
+Oct 19, 2023 10:10:53.54 [4636:1868:1019/101053.508:ERROR:device_event_log_impl.cc(192)] [10:10:53.504] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:10:55.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:25:43.21 [11016:6148:1019/102543.208:ERROR:device_event_log_impl.cc(192)] [10:25:43.208] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:25:44.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:30:45.48 [8088:3560:1019/103045.478:ERROR:device_event_log_impl.cc(192)] [10:30:45.478] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:30:46.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:35:08.90 [11676:10776:1019/103508.897:ERROR:device_event_log_impl.cc(192)] [10:35:08.896] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:35:09.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:36:55.11 [9636:2092:1019/103655.112:ERROR:device_event_log_impl.cc(192)] [10:36:55.111] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:36:56.72 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:38:17.25 [3272:2408:1019/103817.249:ERROR:device_event_log_impl.cc(192)] [10:38:17.248] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:38:18.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:41:13.39 [2572:2264:1019/104113.391:ERROR:device_event_log_impl.cc(192)] [10:41:13.391] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:41:13.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:43:05.36 [12180:5360:1019/104305.347:ERROR:device_event_log_impl.cc(192)] [10:43:05.347] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:43:05.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:47:51.15 [11992:2280:1019/104751.149:ERROR:device_event_log_impl.cc(192)] [10:47:51.149] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:47:52.17 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:49:04.19 [8948:7748:1019/104904.194:ERROR:device_event_log_impl.cc(192)] [10:49:04.194] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:49:05.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 19, 2023 10:51:31.33 [10800:5000:1019/105131.330:ERROR:device_event_log_impl.cc(192)] [10:51:31.330] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 19, 2023 10:51:33.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 21, 2023 10:30:16.12 NEW SESSION
+Oct 21, 2023 10:30:16.15 [15072:3616:1021/103016.114:ERROR:device_event_log_impl.cc(192)] [10:30:16.114] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 10:30:18.56 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 10:32:12.62 [14876:11284:1021/103212.621:ERROR:device_event_log_impl.cc(192)] [10:32:12.621] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 10:32:58.39 [15036:13092:1021/103258.353:ERROR:device_event_log_impl.cc(192)] [10:32:58.353] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 10:32:59.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 10:34:52.68 [12216:15296:1021/103452.683:ERROR:device_event_log_impl.cc(192)] [10:34:52.683] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 10:34:53.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 10:35:19.13 [12216:15296:1021/103519.135:ERROR:device_event_log_impl.cc(192)] [10:35:19.139] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 21, 2023 10:53:01.34 [14192:8628:1021/105301.333:ERROR:device_event_log_impl.cc(192)] [10:53:01.333] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 10:53:02.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:06:43.71 [1672:6752:1021/110643.709:ERROR:device_event_log_impl.cc(192)] [11:06:43.709] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:06:44.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:07:32.62 [14480:9440:1021/110732.618:ERROR:device_event_log_impl.cc(192)] [11:07:32.618] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:07:34.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:12:41.97 [5576:14552:1021/111241.966:ERROR:device_event_log_impl.cc(192)] [11:12:41.966] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:12:42.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:14:29.73 [11780:14664:1021/111429.728:ERROR:device_event_log_impl.cc(192)] [11:14:29.728] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:14:30.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:23:55.50 [7532:13856:1021/112355.501:ERROR:device_event_log_impl.cc(192)] [11:23:55.501] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:23:55.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:24:18.94 [11000:2092:1021/112418.937:ERROR:device_event_log_impl.cc(192)] [11:24:18.937] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:24:19.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:26:51.46 [6864:5952:1021/112651.462:ERROR:device_event_log_impl.cc(192)] [11:26:51.462] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:26:53.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 11:30:40.35 [13060:10592:1021/113040.346:ERROR:device_event_log_impl.cc(192)] [11:30:40.346] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 11:30:42.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 21, 2023 17:29:32.16 NEW SESSION
+Oct 21, 2023 17:29:32.30 [3900:9452:1021/172932.140:ERROR:device_event_log_impl.cc(192)] [17:29:32.140] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 17:29:34.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 17:45:37.76 [14348:12364:1021/174537.760:ERROR:device_event_log_impl.cc(192)] [17:45:37.760] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 17:45:38.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 17:52:52.83 [12988:10780:1021/175252.826:ERROR:device_event_log_impl.cc(192)] [17:52:52.826] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 17:52:53.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 18:30:03.75 [12988:10780:1021/183003.756:ERROR:device_event_log_impl.cc(192)] [18:30:03.756] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 21, 2023 19:20:25.06 [3628:12592:1021/192025.036:ERROR:device_event_log_impl.cc(192)] [19:20:25.037] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 19:23:11.03 [12008:14936:1021/192311.029:ERROR:device_event_log_impl.cc(192)] [19:23:11.029] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 19:23:13.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 19:33:10.73 [14436:14096:1021/193310.728:ERROR:device_event_log_impl.cc(192)] [19:33:10.728] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 19:33:11.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 19:33:50.61 [9612:7836:1021/193350.598:ERROR:device_event_log_impl.cc(192)] [19:33:50.598] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 19:34:15.83 [10228:8744:1021/193415.826:ERROR:device_event_log_impl.cc(192)] [19:34:15.826] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 19:34:16.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 19:35:58.38 [988:2580:1021/193558.384:ERROR:device_event_log_impl.cc(192)] [19:35:58.384] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 19:35:59.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 21, 2023 21:32:04.12 NEW SESSION
+Oct 21, 2023 21:32:04.14 [14696:10276:1021/213204.116:ERROR:device_event_log_impl.cc(192)] [21:32:04.116] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 21:32:06.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 21:35:14.02 [9720:7724:1021/213514.014:ERROR:device_event_log_impl.cc(192)] [21:35:14.014] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 21:35:16.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:10:53.10 [11176:7364:1021/221053.095:ERROR:device_event_log_impl.cc(192)] [22:10:53.095] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:10:55.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:18:57.56 [2596:10928:1021/221857.541:ERROR:device_event_log_impl.cc(192)] [22:18:57.541] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:19:02.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:20:00.97 [3800:2548:1021/222000.951:ERROR:device_event_log_impl.cc(192)] [22:20:00.951] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:20:04.06 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:20:23.20 [14380:6824:1021/222023.193:ERROR:device_event_log_impl.cc(192)] [22:20:23.193] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:20:24.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 21, 2023 22:28:02.94 NEW SESSION
+Oct 21, 2023 22:28:02.96 [14660:14852:1021/222802.939:ERROR:device_event_log_impl.cc(192)] [22:28:02.939] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:28:04.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:32:51.03 [14232:1444:1021/223251.033:ERROR:device_event_log_impl.cc(192)] [22:32:51.033] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:32:51.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 21, 2023 22:50:32.79 NEW SESSION
+Oct 21, 2023 22:50:32.81 [2516:3008:1021/225032.786:ERROR:device_event_log_impl.cc(192)] [22:50:32.785] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:50:34.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:51:27.94 [12472:15212:1021/225127.942:ERROR:device_event_log_impl.cc(192)] [22:51:27.942] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:51:29.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:52:51.17 [3824:10696:1021/225251.153:ERROR:device_event_log_impl.cc(192)] [22:52:51.154] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:52:51.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:53:57.77 [7536:12188:1021/225357.767:ERROR:device_event_log_impl.cc(192)] [22:53:57.767] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:53:58.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 22:56:03.58 [6656:1624:1021/225603.582:ERROR:device_event_log_impl.cc(192)] [22:56:03.581] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 22:56:05.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:07:34.66 [14088:7336:1021/230734.658:ERROR:device_event_log_impl.cc(192)] [23:07:34.658] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:07:35.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:09:28.50 [12992:12088:1021/230928.498:ERROR:device_event_log_impl.cc(192)] [23:09:28.498] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:09:29.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:11:03.32 [4340:7664:1021/231103.320:ERROR:device_event_log_impl.cc(192)] [23:11:03.319] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:11:04.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:12:44.70 [14124:9728:1021/231244.696:ERROR:device_event_log_impl.cc(192)] [23:12:44.696] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:12:45.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:13:35.11 [12864:14660:1021/231335.110:ERROR:device_event_log_impl.cc(192)] [23:13:35.110] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:13:35.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:14:22.54 [1944:13672:1021/231422.545:ERROR:device_event_log_impl.cc(192)] [23:14:22.544] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:14:24.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:26:53.32 [3404:8868:1021/232653.311:ERROR:device_event_log_impl.cc(192)] [23:26:53.310] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:26:55.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:39:07.30 [4868:9944:1021/233907.306:ERROR:device_event_log_impl.cc(192)] [23:39:07.305] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:39:08.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:46:44.30 [10516:9776:1021/234644.207:ERROR:device_event_log_impl.cc(192)] [23:46:44.206] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:46:45.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:51:13.37 [7400:2720:1021/235113.363:ERROR:device_event_log_impl.cc(192)] [23:51:13.363] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:51:14.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:52:05.36 [9304:9532:1021/235205.351:ERROR:device_event_log_impl.cc(192)] [23:52:05.351] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:52:07.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 21, 2023 23:56:58.19 [12956:1564:1021/235658.189:ERROR:device_event_log_impl.cc(192)] [23:56:58.188] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 21, 2023 23:56:58.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 24:05:26.30 [13756:11932:1022/000526.298:ERROR:device_event_log_impl.cc(192)] [00:05:26.298] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 24:05:28.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 24:07:40.42 [12304:13548:1022/000740.418:ERROR:device_event_log_impl.cc(192)] [00:07:40.417] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 24:07:41.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 22, 2023 10:55:39.94 NEW SESSION
+Oct 22, 2023 10:55:39.96 [1708:7964:1022/105539.939:ERROR:device_event_log_impl.cc(192)] [10:55:39.938] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 10:55:43.89 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 11:02:08.75 [10784:12540:1022/110208.753:ERROR:device_event_log_impl.cc(192)] [11:02:08.753] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 11:02:09.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 11:12:56.18 [9240:13324:1022/111256.180:ERROR:device_event_log_impl.cc(192)] [11:12:56.180] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 11:12:57.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 11:21:09.74 [4468:13272:1022/112109.735:ERROR:device_event_log_impl.cc(192)] [11:21:09.734] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 11:21:10.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 11:30:57.34 [12608:11016:1022/113057.339:ERROR:device_event_log_impl.cc(192)] [11:30:57.340] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 11:30:57.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 11:45:14.36 [1276:8552:1022/114514.359:ERROR:device_event_log_impl.cc(192)] [11:45:14.359] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 11:45:14.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 12:29:40.12 [10200:2108:1022/122940.122:ERROR:device_event_log_impl.cc(192)] [12:29:40.121] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 12:29:41.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 12:50:47.47 [13468:13132:1022/125047.469:ERROR:device_event_log_impl.cc(192)] [12:50:47.469] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 12:50:49.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 13:02:21.28 [4280:5100:1022/130221.274:ERROR:device_event_log_impl.cc(192)] [13:02:21.273] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 13:02:42.14 [13832:11756:1022/130242.137:ERROR:device_event_log_impl.cc(192)] [13:02:42.136] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 13:02:43.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 22, 2023 13:03:25.56 [8500:12964:1022/130325.564:ERROR:device_event_log_impl.cc(192)] [13:03:25.564] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 22, 2023 13:03:25.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 23, 2023 13:41:35.03 NEW SESSION
+Oct 23, 2023 13:41:35.05 [9524:7268:1023/134135.027:ERROR:device_event_log_impl.cc(192)] [13:41:35.026] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 13:41:36.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 23, 2023 14:14:29.82 NEW SESSION
+Oct 23, 2023 14:14:29.84 [12980:1624:1023/141429.819:ERROR:device_event_log_impl.cc(192)] [14:14:29.819] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 14:14:31.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 14:25:02.04 [1492:6556:1023/142502.034:ERROR:device_event_log_impl.cc(192)] [14:25:02.034] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 14:25:04.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 14:31:58.99 [12384:8200:1023/143158.987:ERROR:device_event_log_impl.cc(192)] [14:31:58.986] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 14:31:59.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 14:39:00.83 [4116:11248:1023/143900.832:ERROR:device_event_log_impl.cc(192)] [14:39:00.831] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 14:39:01.27 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 14:43:27.68 [6844:12240:1023/144327.684:ERROR:device_event_log_impl.cc(192)] [14:43:27.684] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 14:43:29.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 14:50:34.90 [11352:8728:1023/145034.880:ERROR:device_event_log_impl.cc(192)] [14:50:34.879] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 14:50:37.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 15:00:35.64 [6120:3828:1023/150035.633:ERROR:device_event_log_impl.cc(192)] [15:00:35.633] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 15:00:37.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 15:04:31.93 [8876:10224:1023/150431.934:ERROR:device_event_log_impl.cc(192)] [15:04:31.934] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 15:04:33.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 15:07:33.13 [14308:7348:1023/150733.132:ERROR:device_event_log_impl.cc(192)] [15:07:33.131] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 15:07:33.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 15:12:51.30 [1496:12980:1023/151251.300:ERROR:device_event_log_impl.cc(192)] [15:12:51.301] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 15:12:51.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 15:24:38.45 [4828:11692:1023/152438.455:ERROR:device_event_log_impl.cc(192)] [15:24:38.455] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 15:24:40.14 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 23, 2023 15:33:22.07 [8556:1748:1023/153322.068:ERROR:device_event_log_impl.cc(192)] [15:33:22.067] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 23, 2023 15:33:22.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 25, 2023 13:38:54.23 NEW SESSION
+Oct 25, 2023 13:38:54.31 [12824:15564:1025/133854.221:ERROR:device_event_log_impl.cc(192)] [13:38:54.220] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Oct 25, 2023 19:33:01.39 NEW SESSION
+Oct 25, 2023 19:33:01.42 [11588:2884:1025/193301.347:ERROR:device_event_log_impl.cc(192)] [19:33:01.347] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 25, 2023 19:33:03.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 25, 2023 19:42:35.86 [3900:15916:1025/194235.844:ERROR:device_event_log_impl.cc(192)] [19:42:35.843] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 25, 2023 19:42:38.12 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 25, 2023 20:04:04.30 [6976:4632:1025/200404.305:ERROR:device_event_log_impl.cc(192)] [20:04:04.305] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 25, 2023 20:04:05.79 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 26, 2023 24:02:29.47 NEW SESSION
+Oct 26, 2023 24:02:29.52 [9140:12552:1026/000229.429:ERROR:device_event_log_impl.cc(192)] [00:02:29.425] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 24:02:31.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 26, 2023 10:45:39.01 NEW SESSION
+Oct 26, 2023 10:45:39.04 [1268:13820:1026/104539.013:ERROR:device_event_log_impl.cc(192)] [10:45:39.009] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 10:45:41.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 10:54:12.91 [10904:14320:1026/105412.910:ERROR:device_event_log_impl.cc(192)] [10:54:12.910] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 10:54:16.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 10:55:30.20 [7532:12120:1026/105530.205:ERROR:device_event_log_impl.cc(192)] [10:55:30.205] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 10:55:30.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 26, 2023 16:17:37.55 NEW SESSION
+Oct 26, 2023 16:17:37.61 [8896:15660:1026/161737.546:ERROR:device_event_log_impl.cc(192)] [16:17:37.541] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:17:39.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 16:22:26.99 [14412:7352:1026/162226.989:ERROR:device_event_log_impl.cc(192)] [16:22:26.989] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:22:28.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 16:23:12.23 [14472:16268:1026/162312.228:ERROR:device_event_log_impl.cc(192)] [16:23:12.228] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:23:13.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 16:24:49.70 [17056:16556:1026/162449.704:ERROR:device_event_log_impl.cc(192)] [16:24:49.703] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:24:51.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 16:28:22.49 [4996:6416:1026/162822.492:ERROR:device_event_log_impl.cc(192)] [16:28:22.492] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:28:23.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 16:37:34.38 [16872:11560:1026/163734.383:ERROR:device_event_log_impl.cc(192)] [16:37:34.383] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:37:36.07 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 16:44:52.99 [12496:11536:1026/164452.969:ERROR:device_event_log_impl.cc(192)] [16:44:52.969] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 16:44:53.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 26, 2023 17:25:21.49 [16568:17336:1026/172521.487:ERROR:device_event_log_impl.cc(192)] [17:25:21.487] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 26, 2023 17:25:23.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 29, 2023 13:50:33.64 NEW SESSION
+Oct 29, 2023 13:50:33.66 [13028:11256:1029/135033.639:ERROR:device_event_log_impl.cc(192)] [13:50:33.631] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 13:50:38.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 29, 2023 18:42:04.46 NEW SESSION
+Oct 29, 2023 18:42:04.50 [16100:17892:1029/184204.461:ERROR:device_event_log_impl.cc(192)] [18:42:04.457] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 18:42:06.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 19:22:42.43 [20032:18104:1029/192242.427:ERROR:device_event_log_impl.cc(192)] [19:22:42.427] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 19:22:45.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 19:24:08.19 [7572:13256:1029/192408.185:ERROR:device_event_log_impl.cc(192)] [19:24:08.185] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 19:24:09.27 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 19:25:45.69 [16284:9844:1029/192545.687:ERROR:device_event_log_impl.cc(192)] [19:25:45.687] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 19:27:34.24 [9012:6128:1029/192734.230:ERROR:device_event_log_impl.cc(192)] [19:27:34.230] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 19:27:34.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 19:28:09.92 [20692:13520:1029/192809.919:ERROR:device_event_log_impl.cc(192)] [19:28:09.919] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 19:28:11.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 19:29:28.37 [17688:6472:1029/192928.367:ERROR:device_event_log_impl.cc(192)] [19:29:28.367] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Oct 29, 2023 21:01:10.53 NEW SESSION
+Oct 29, 2023 21:01:10.56 [20912:17616:1029/210110.526:ERROR:device_event_log_impl.cc(192)] [21:01:10.520] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 21:01:13.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 21:06:53.47 [20340:21112:1029/210653.372:ERROR:device_event_log_impl.cc(192)] [21:06:53.372] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 21:06:56.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 21:21:32.25 [19032:15884:1029/212132.252:ERROR:device_event_log_impl.cc(192)] [21:21:32.252] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 21:21:32.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 21:27:28.22 [15748:8716:1029/212728.221:ERROR:device_event_log_impl.cc(192)] [21:27:28.221] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 21:27:30.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 21:30:25.37 [15832:10988:1029/213025.371:ERROR:device_event_log_impl.cc(192)] [21:30:25.370] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 21:30:44.00 [8044:12332:1029/213044.000:ERROR:device_event_log_impl.cc(192)] [21:30:44.008] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 21:30:44.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 22:01:27.09 [8044:12332:1029/220127.096:ERROR:device_event_log_impl.cc(192)] [22:01:27.095] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 29, 2023 22:06:24.11 [16500:13448:1029/220624.110:ERROR:device_event_log_impl.cc(192)] [22:06:24.110] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 22:06:24.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 22:11:08.91 [14648:20872:1029/221108.878:ERROR:device_event_log_impl.cc(192)] [22:11:08.878] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 22:11:09.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 22:27:52.04 [2032:13140:1029/222752.040:ERROR:device_event_log_impl.cc(192)] [22:27:52.040] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 22:27:54.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 22:37:26.37 [7036:13448:1029/223726.366:ERROR:device_event_log_impl.cc(192)] [22:37:26.366] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 22:37:28.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 22:55:11.00 [21380:19604:1029/225511.005:ERROR:device_event_log_impl.cc(192)] [22:55:11.005] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 22:55:11.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 22:57:48.57 [21056:14592:1029/225748.574:ERROR:device_event_log_impl.cc(192)] [22:57:48.573] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 22:57:49.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 23:19:11.24 [16924:20140:1029/231911.192:ERROR:device_event_log_impl.cc(192)] [23:19:11.191] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 23:19:12.14 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 23:28:33.42 [19716:10896:1029/232833.417:ERROR:device_event_log_impl.cc(192)] [23:28:33.416] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 23:28:33.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2023 23:59:47.49 [12840:11132:1029/235947.491:ERROR:device_event_log_impl.cc(192)] [23:59:47.491] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 29, 2023 23:59:50.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 24:02:32.79 [7304:7792:1030/000232.793:ERROR:device_event_log_impl.cc(192)] [00:02:32.793] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 24:02:33.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 24:07:49.98 [20564:20116:1030/000749.975:ERROR:device_event_log_impl.cc(192)] [00:07:49.975] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 24:07:51.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 30, 2023 09:03:52.79 NEW SESSION
+Oct 30, 2023 09:03:52.82 [20132:17744:1030/090352.789:ERROR:device_event_log_impl.cc(192)] [09:03:52.786] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 09:03:53.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 10:49:20.55 [812:15436:1030/104920.542:ERROR:device_event_log_impl.cc(192)] [10:49:20.541] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 10:49:21.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:32:16.15 [16688:19116:1030/113216.153:ERROR:device_event_log_impl.cc(192)] [11:32:16.153] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:32:16.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:34:44.58 [13836:20740:1030/113444.581:ERROR:device_event_log_impl.cc(192)] [11:34:44.581] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:34:45.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:36:08.21 [1908:8716:1030/113608.207:ERROR:device_event_log_impl.cc(192)] [11:36:08.207] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:36:08.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:37:11.02 [2516:11068:1030/113711.022:ERROR:device_event_log_impl.cc(192)] [11:37:11.022] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:37:11.78 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:38:42.97 [9408:18556:1030/113842.967:ERROR:device_event_log_impl.cc(192)] [11:38:42.966] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:38:43.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:40:55.71 [20028:8716:1030/114055.709:ERROR:device_event_log_impl.cc(192)] [11:40:55.709] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:40:56.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:42:24.94 [21352:19732:1030/114224.937:ERROR:device_event_log_impl.cc(192)] [11:42:24.937] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:42:25.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:48:30.67 [9276:14520:1030/114830.665:ERROR:device_event_log_impl.cc(192)] [11:48:30.665] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:48:31.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 11:50:08.63 [8404:20848:1030/115008.629:ERROR:device_event_log_impl.cc(192)] [11:50:08.629] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 11:50:09.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 30, 2023 18:43:57.13 NEW SESSION
+Oct 30, 2023 18:43:57.20 [12140:19168:1030/184357.124:ERROR:device_event_log_impl.cc(192)] [18:43:57.124] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 18:43:59.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 18:51:26.49 [21492:16488:1030/185126.494:ERROR:device_event_log_impl.cc(192)] [18:51:26.494] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 18:51:27.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 18:52:59.23 [17332:10796:1030/185259.225:ERROR:device_event_log_impl.cc(192)] [18:52:59.226] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 18:53:00.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 30, 2023 22:27:20.02 NEW SESSION
+Oct 30, 2023 22:27:20.05 [19800:4528:1030/222720.023:ERROR:device_event_log_impl.cc(192)] [22:27:20.018] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 22:27:22.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 22:42:53.44 [4524:16108:1030/224253.435:ERROR:device_event_log_impl.cc(192)] [22:42:53.434] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 22:42:54.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 22:50:11.99 [560:15260:1030/225011.985:ERROR:device_event_log_impl.cc(192)] [22:50:11.984] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 22:50:12.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 22:54:18.56 [19008:7784:1030/225418.546:ERROR:device_event_log_impl.cc(192)] [22:54:18.546] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 22:54:22.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 22:54:58.42 [21284:15320:1030/225458.417:ERROR:device_event_log_impl.cc(192)] [22:54:58.417] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 22:55:00.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 23:05:15.69 [5316:7076:1030/230515.691:ERROR:device_event_log_impl.cc(192)] [23:05:15.691] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 23:05:16.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2023 23:06:39.32 [9732:15120:1030/230639.320:ERROR:device_event_log_impl.cc(192)] [23:06:39.319] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 30, 2023 23:06:41.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 31, 2023 09:17:15.25 NEW SESSION
+Oct 31, 2023 09:17:15.30 [9052:17912:1031/091715.254:ERROR:device_event_log_impl.cc(192)] [09:17:15.249] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 09:17:17.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 09:24:59.63 [17708:13884:1031/092459.633:ERROR:device_event_log_impl.cc(192)] [09:24:59.632] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 09:25:00.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 09:28:55.85 [20816:18552:1031/092855.845:ERROR:device_event_log_impl.cc(192)] [09:28:55.846] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 09:28:56.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 09:33:43.98 [17992:640:1031/093343.918:ERROR:device_event_log_impl.cc(192)] [09:33:43.916] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 09:33:45.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 09:39:50.91 [10748:21220:1031/093950.910:ERROR:device_event_log_impl.cc(192)] [09:39:50.911] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 09:39:51.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 09:59:33.65 [7628:16960:1031/095933.623:ERROR:device_event_log_impl.cc(192)] [09:59:33.623] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 09:59:35.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 10:01:04.82 [6664:20116:1031/100104.822:ERROR:device_event_log_impl.cc(192)] [10:01:04.821] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 10:01:21.11 [16784:4976:1031/100121.107:ERROR:device_event_log_impl.cc(192)] [10:01:21.107] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 10:01:21.79 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 10:05:32.39 [3252:19600:1031/100532.397:ERROR:device_event_log_impl.cc(192)] [10:05:32.402] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 10:05:33.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 10:07:25.71 [20536:18868:1031/100725.703:ERROR:device_event_log_impl.cc(192)] [10:07:25.703] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 10:07:26.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 10:14:16.29 [20536:18868:1031/101416.293:ERROR:device_event_log_impl.cc(192)] [10:14:16.293] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 31, 2023 10:33:03.29 [14052:12812:1031/103303.293:ERROR:device_event_log_impl.cc(192)] [10:33:03.294] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 10:33:05.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 10:37:43.42 [6128:15532:1031/103743.388:ERROR:device_event_log_impl.cc(192)] [10:37:43.388] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 10:37:44.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 10:59:01.84 [ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 31, 2023 10:59:01.86 [ERROR viaduct::backend::ffi] Missing HTTP status
+Oct 31, 2023 10:59:01.86 [ERROR viaduct::backend::ffi] Missing HTTP status
+
+Oct 31, 2023 12:45:22.59 NEW SESSION
+Oct 31, 2023 12:45:22.64 [8032:6592:1031/124522.591:ERROR:device_event_log_impl.cc(192)] [12:45:22.587] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 12:45:23.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 13:06:23.80 [8032:6592:1031/130623.809:ERROR:device_event_log_impl.cc(192)] [13:06:23.801] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Oct 31, 2023 16:30:54.90 NEW SESSION
+Oct 31, 2023 16:30:54.92 [19884:19380:1031/163054.894:ERROR:device_event_log_impl.cc(192)] [16:30:54.889] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 16:30:56.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 16:35:11.68 [15372:12564:1031/163511.675:ERROR:device_event_log_impl.cc(192)] [16:35:11.674] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 16:35:12.71 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 31, 2023 18:48:12.37 NEW SESSION
+Oct 31, 2023 18:48:12.46 [17772:21704:1031/184812.368:ERROR:device_event_log_impl.cc(192)] [18:48:12.369] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 18:48:14.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 18:51:56.97 [16784:17952:1031/185156.976:ERROR:device_event_log_impl.cc(192)] [18:51:56.976] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 18:51:57.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 18:53:03.16 [21832:22976:1031/185303.161:ERROR:device_event_log_impl.cc(192)] [18:53:03.161] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 18:53:04.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 31, 2023 19:10:55.52 [21768:20952:1031/191055.516:ERROR:device_event_log_impl.cc(192)] [19:10:55.516] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 31, 2023 19:10:56.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 01, 2023 11:27:33.41 NEW SESSION
+Nov 01, 2023 11:27:33.45 [23224:12644:1101/112733.411:ERROR:device_event_log_impl.cc(192)] [11:27:33.403] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:27:35.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:28:45.41 [5648:11848:1101/112845.409:ERROR:device_event_log_impl.cc(192)] [11:28:45.408] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:28:46.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:32:18.58 [22536:22828:1101/113218.583:ERROR:device_event_log_impl.cc(192)] [11:32:18.583] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:32:19.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:36:04.48 [11968:15428:1101/113604.475:ERROR:device_event_log_impl.cc(192)] [11:36:04.475] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:36:05.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:37:33.33 [20848:13364:1101/113733.287:ERROR:device_event_log_impl.cc(192)] [11:37:33.286] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:37:33.79 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:38:54.19 [7924:7428:1101/113854.188:ERROR:device_event_log_impl.cc(192)] [11:38:54.188] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:38:54.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:40:05.64 [23460:10828:1101/114005.643:ERROR:device_event_log_impl.cc(192)] [11:40:05.643] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:40:06.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:43:31.03 [23408:4868:1101/114331.032:ERROR:device_event_log_impl.cc(192)] [11:43:31.032] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:43:33.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:43:53.82 [23248:6764:1101/114353.823:ERROR:device_event_log_impl.cc(192)] [11:43:53.822] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:43:54.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 11:53:24.88 [8088:23376:1101/115324.867:ERROR:device_event_log_impl.cc(192)] [11:53:24.868] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 11:53:27.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:01:36.71 [17656:4868:1101/120136.709:ERROR:device_event_log_impl.cc(192)] [12:01:36.708] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:01:39.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:02:45.30 [9596:16320:1101/120245.306:ERROR:device_event_log_impl.cc(192)] [12:02:45.314] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:02:45.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:03:28.44 [10988:8068:1101/120328.445:ERROR:device_event_log_impl.cc(192)] [12:03:28.451] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:03:29.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:04:35.29 [15372:19296:1101/120435.274:ERROR:device_event_log_impl.cc(192)] [12:04:35.281] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:04:35.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:05:34.77 [8520:19052:1101/120534.765:ERROR:device_event_log_impl.cc(192)] [12:05:34.772] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:05:35.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:06:06.43 [19392:17256:1101/120606.431:ERROR:device_event_log_impl.cc(192)] [12:06:06.431] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:06:06.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:07:25.32 [15928:18836:1101/120725.314:ERROR:device_event_log_impl.cc(192)] [12:07:25.314] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:07:25.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 12:35:01.29 [2084:20012:1101/123501.289:ERROR:device_event_log_impl.cc(192)] [12:35:01.289] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 12:35:03.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 01, 2023 13:48:55.64 NEW SESSION
+Nov 01, 2023 13:48:55.75 [6988:7712:1101/134855.558:ERROR:device_event_log_impl.cc(192)] [13:48:55.563] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 13:48:56.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 01, 2023 17:58:41.37 NEW SESSION
+Nov 01, 2023 17:58:41.39 [13388:17876:1101/175841.364:ERROR:device_event_log_impl.cc(192)] [17:58:41.360] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 17:58:42.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 18:04:00.75 [13388:17876:1101/180400.758:ERROR:device_event_log_impl.cc(192)] [18:04:00.762] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 01, 2023 19:10:22.60 [14048:24560:1101/191022.600:ERROR:device_event_log_impl.cc(192)] [19:10:22.599] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 19:10:24.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 19:13:25.14 [7932:24148:1101/191325.141:ERROR:device_event_log_impl.cc(192)] [19:13:25.140] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 19:13:26.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 19:18:37.87 [6468:12384:1101/191837.868:ERROR:device_event_log_impl.cc(192)] [19:18:37.867] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 19:18:38.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 01, 2023 22:47:14.30 NEW SESSION
+Nov 01, 2023 22:47:14.33 [17880:1272:1101/224714.287:ERROR:device_event_log_impl.cc(192)] [22:47:14.279] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 22:47:15.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 01, 2023 22:56:29.52 [17972:23288:1101/225629.518:ERROR:device_event_log_impl.cc(192)] [22:56:29.518] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 01, 2023 22:56:31.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 02, 2023 08:56:15.20 NEW SESSION
+Nov 02, 2023 08:56:15.22 [17188:13552:1102/085615.196:ERROR:device_event_log_impl.cc(192)] [08:56:15.191] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 02, 2023 08:56:15.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 08:57:35.55 [17188:13552:1102/085735.559:ERROR:device_event_log_impl.cc(192)] [08:57:35.566] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 02, 2023 09:07:25.87 [8796:7672:1102/090725.874:ERROR:device_event_log_impl.cc(192)] [09:07:25.873] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 02, 2023 09:07:27.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 09:13:48.14 [22104:24568:1102/091348.044:ERROR:device_event_log_impl.cc(192)] [09:13:48.043] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 02, 2023 09:13:50.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 09:16:39.50 [9028:11764:1102/091639.504:ERROR:device_event_log_impl.cc(192)] [09:16:39.503] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 02, 2023 09:16:40.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 09:19:23.90 [24248:15072:1102/091923.901:ERROR:device_event_log_impl.cc(192)] [09:19:23.902] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 02, 2023 09:19:24.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 02, 2023 10:37:31.46 NEW SESSION
+Nov 02, 2023 10:37:31.48 [23348:17132:1102/103731.456:ERROR:device_event_log_impl.cc(192)] [10:37:31.455] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Nov 02, 2023 10:37:33.12 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 11:15:43.10 [23348:17132:1102/111543.101:ERROR:device_event_log_impl.cc(192)] [11:15:43.096] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 02, 2023 12:17:47.02 NEW SESSION
+Nov 02, 2023 12:17:47.05 [22596:7972:1102/121747.024:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2023 12:17:49.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 12:18:08.56 [22596:7972:1102/121808.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2023 12:19:06.49 [22596:7972:1102/121906.498:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2023 12:34:20.27 [21304:14384:1102/123420.278:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2023 12:34:22.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 02, 2023 12:34:48.07 [21304:14384:1102/123448.073:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 02, 2023 12:35:33.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 03, 2023 09:30:11.52 NEW SESSION
+Nov 03, 2023 09:30:11.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 10:23:22.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 10:35:51.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 10:37:22.36 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 11:00:46.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 11:05:13.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 11:11:53.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 03, 2023 13:44:54.96 NEW SESSION
+Nov 03, 2023 13:44:54.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 03, 2023 17:07:28.19 NEW SESSION
+Nov 03, 2023 17:07:28.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 17:18:10.53 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 17:22:02.27 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 17:51:10.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 18:29:35.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 18:35:36.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 18:44:28.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 18:54:50.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 18:56:44.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 03, 2023 19:05:05.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 04, 2023 18:44:09.46 NEW SESSION
+Nov 04, 2023 18:44:09.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 04, 2023 18:55:17.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 04, 2023 19:06:33.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 05, 2023 10:37:24.05 NEW SESSION
+Nov 05, 2023 10:37:24.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 05, 2023 10:44:50.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 05, 2023 10:53:57.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 05, 2023 10:56:49.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 05, 2023 11:29:41.50 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 06, 2023 18:48:35.64 NEW SESSION
+Nov 06, 2023 18:48:35.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 06, 2023 19:59:24.97 [9272:24196:1106/195924.976:ERROR:device_event_log_impl.cc(192)] [19:59:24.976] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 09, 2023 16:01:29.79 NEW SESSION
+Nov 09, 2023 16:01:29.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 09, 2023 17:19:41.73 NEW SESSION
+Nov 09, 2023 17:19:41.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 09, 2023 17:23:21.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 09, 2023 17:58:25.39 NEW SESSION
+Nov 09, 2023 17:58:25.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 09, 2023 19:26:09.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 09, 2023 19:36:52.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 09, 2023 19:40:26.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 09, 2023 19:46:37.68 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 13, 2023 11:51:40.38 NEW SESSION
+Nov 13, 2023 11:51:40.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 11:53:12.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 11:54:28.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 13, 2023 12:01:55.10 NEW SESSION
+Nov 13, 2023 12:01:55.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 12:16:30.46 [4876:10640:1113/121630.461:ERROR:device_event_log_impl.cc(192)] [12:16:30.462] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 13, 2023 12:26:22.65 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 12:31:28.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 12:32:32.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 13, 2023 13:39:37.14 NEW SESSION
+Nov 13, 2023 13:39:37.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 13:48:25.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 15:21:47.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 16:02:30.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 14, 2023 19:06:33.42 NEW SESSION
+Nov 14, 2023 19:06:33.44 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 14, 2023 19:53:28.73 [7952:1792:1114/195328.729:ERROR:device_event_log_impl.cc(192)] [19:53:28.729] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 14, 2023 20:43:16.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 14, 2023 21:01:21.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 18, 2023 15:29:41.82 NEW SESSION
+Nov 18, 2023 15:29:41.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 18, 2023 15:36:22.40 [12560:12432:1118/153622.400:ERROR:device_event_log_impl.cc(192)] [15:36:22.401] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 20, 2023 14:31:56.85 NEW SESSION
+Nov 20, 2023 14:31:56.86 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 20, 2023 14:46:20.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 20, 2023 14:51:00.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 20, 2023 14:56:13.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 20, 2023 15:42:48.88 [5456:8256:1120/154248.884:ERROR:device_event_log_impl.cc(192)] [15:42:48.884] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Nov 22, 2023 14:52:10.93 NEW SESSION
+Nov 22, 2023 14:52:10.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 22, 2023 15:29:26.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 22, 2023 15:32:53.33 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 22, 2023 15:44:01.43 NEW SESSION
+Nov 22, 2023 15:44:01.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 22, 2023 19:30:29.37 NEW SESSION
+Nov 22, 2023 19:30:29.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 22, 2023 19:35:13.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 22, 2023 19:37:04.27 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 22, 2023 19:50:22.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Dec 12, 2023 13:10:03.52 NEW SESSION
+Dec 12, 2023 13:10:03.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 12, 2023 13:37:16.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 12, 2023 13:43:09.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Dec 13, 2023 10:01:57.73 NEW SESSION
+Dec 13, 2023 10:01:57.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 13, 2023 10:17:36.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 13, 2023 13:41:20.17 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 13, 2023 13:58:48.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 13, 2023 14:10:14.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Dec 14, 2023 12:04:30.84 NEW SESSION
+Dec 14, 2023 12:04:30.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Dec 14, 2023 18:24:29.70 NEW SESSION
+Dec 14, 2023 18:24:29.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 14, 2023 18:32:24.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 14, 2023 18:34:33.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 14, 2023 18:37:45.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 14, 2023 18:47:02.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 14, 2023 18:48:30.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Dec 15, 2023 16:40:38.77 NEW SESSION
+Dec 15, 2023 16:40:38.79 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Dec 15, 2023 19:35:44.35 NEW SESSION
+Dec 15, 2023 19:35:44.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 15, 2023 20:01:25.32 [6128:7188:1215/200125.320:ERROR:device_event_log_impl.cc(192)] [20:01:25.321] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Dec 20, 2023 21:01:03.10 NEW SESSION
+Dec 20, 2023 21:01:03.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 20, 2023 21:12:56.10 [11088:8964:1220/211256.105:ERROR:device_event_log_impl.cc(192)] [21:12:56.095] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 21:12:56.72 [11088:8964:1220/211256.723:ERROR:device_event_log_impl.cc(192)] [21:12:56.708] USB: usb_service_win.cc:705 Got duplicate add event for path: \\?\usb#vid_0bda&pid_b00e#00e04c000001#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Dec 20, 2023 21:12:56.72 [11088:8964:1220/211256.723:ERROR:device_event_log_impl.cc(192)] [21:12:56.686] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 21:26:37.39 [11088:8964:1220/212637.393:ERROR:device_event_log_impl.cc(192)] [21:26:37.400] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 20, 2023 23:07:57.75 [11088:8964:1220/230757.758:ERROR:device_event_log_impl.cc(192)] [23:07:57.754] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 17, 2024 10:39:09.50 NEW SESSION
+Jan 17, 2024 10:39:09.53 [10208:9180:0117/103909.499:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 10:39:09.59 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2024 10:39:31.87 [10208:9180:0117/103931.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 10:50:10.59 [8560:3284:0117/105010.594:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 10:50:10.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jan 17, 2024 12:27:41.97 NEW SESSION
+Jan 17, 2024 12:27:42.01 [2580:8396:0117/122741.975:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:27:42.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2024 12:28:07.15 [2580:8396:0117/122807.151:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:28:53.43 [2580:8396:0117/122853.437:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:30:50.47 [2580:8396:0117/123050.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:33:39.18 [2580:8396:0117/123339.181:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:42:39.31 [2580:8396:0117/124239.317:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:42:39.35 [2580:5012:0117/124239.354:ERROR:device_event_log_impl.cc(192)] [12:42:39.353] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 17, 2024 12:52:39.32 [2580:8396:0117/125239.326:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:53:22.84 [4700:11540:0117/125322.842:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:53:23.12 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2024 12:53:49.06 [4700:11540:0117/125349.067:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:58:47.15 [8708:11604:0117/125847.158:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2024 12:58:47.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jan 18, 2024 08:49:09.59 NEW SESSION
+Jan 18, 2024 08:49:09.65 [296:9904:0118/084909.586:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Jan 18, 2024 08:49:12.61 [296:2944:0118/084912.612:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:49:14.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 08:49:34.09 [296:2944:0118/084934.094:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:50:20.50 [296:2944:0118/085020.500:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:51:54.89 [296:2944:0118/085154.894:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:54:38.45 [9512:1040:0118/085438.456:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:54:38.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 08:55:02.96 [9512:1040:0118/085502.960:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:55:45.11 [9512:1040:0118/085545.119:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:57:56.03 [2332:1204:0118/085756.033:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:57:56.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 08:58:17.09 [2332:1204:0118/085817.090:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:59:10.52 [2332:1204:0118/085910.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:59:59.58 [7296:3372:0118/085959.585:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 08:59:59.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 09:00:26.23 [7296:3372:0118/090026.237:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:01:00.51 [3708:5412:0118/090100.518:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:01:00.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 09:01:27.46 [3708:5412:0118/090127.460:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:02:23.06 [3708:5412:0118/090223.069:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:03:50.88 [3708:5412:0118/090350.880:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:14:41.20 [6244:9368:0118/091441.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:14:41.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 09:15:10.43 [6244:9368:0118/091510.434:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:16:09.39 [6244:9368:0118/091609.391:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:17:47.75 [6244:9368:0118/091747.750:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:20:40.71 [6244:9368:0118/092040.714:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:27:54.14 [6244:9368:0118/092754.146:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:37:54.15 [6244:9368:0118/093754.154:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:47:54.17 [6244:9368:0118/094754.172:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 09:57:54.18 [6244:9368:0118/095754.183:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:10:05.52 [6244:9368:0118/101005.525:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:20:05.53 [6244:9368:0118/102005.531:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:22:43.57 [2852:5768:0118/102243.576:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:22:43.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 10:23:08.07 [2852:5768:0118/102308.072:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:23:55.98 [2852:5768:0118/102355.982:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:25:32.65 [2852:5768:0118/102532.650:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:28:40.16 [2852:5768:0118/102840.161:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:34:13.55 [1580:10096:0118/103413.557:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:34:13.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 10:34:41.63 [1580:10096:0118/103441.637:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:35:41.22 [1580:10096:0118/103541.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:37:25.90 [1580:10096:0118/103725.906:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:38:50.68 [10072:84:0118/103850.681:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:38:50.75 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2024 10:39:19.54 [10072:84:0118/103919.548:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:40:01.13 [10072:84:0118/104001.130:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:41:55.58 [10072:84:0118/104155.588:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 18, 2024 10:45:28.90 [10072:84:0118/104528.904:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 19, 2024 08:53:07.17 NEW SESSION
+Jan 19, 2024 08:53:07.30 [11212:10448:0119/085307.160:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Jan 19, 2024 08:53:10.48 [11212:14220:0119/085310.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 08:53:10.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 08:54:08.16 [12160:12792:0119/085408.168:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 08:54:08.27 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 08:54:33.90 [12160:12792:0119/085433.907:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:28:21.13 [14064:14240:0119/092821.130:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:28:21.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 09:28:48.40 [14064:14240:0119/092848.400:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:30:19.32 [11248:3688:0119/093019.328:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:30:19.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 09:30:44.98 [11248:3688:0119/093044.983:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:31:42.57 [2596:12876:0119/093142.570:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:31:42.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 09:32:10.99 [2596:12876:0119/093210.992:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:32:45.64 [9608:10452:0119/093245.642:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:32:46.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 09:33:06.45 [9608:10452:0119/093306.454:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:33:57.04 [9608:10452:0119/093357.041:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:35:40.18 [9608:10452:0119/093540.184:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:38:51.98 [9608:10452:0119/093851.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:46:05.11 [9608:10452:0119/094605.113:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 09:59:10.21 [9608:10452:0119/095910.214:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:07:31.81 [11468:12404:0119/100731.818:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:07:31.93 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 10:08:00.73 [11468:12404:0119/100800.734:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:08:43.62 [11468:12404:0119/100843.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:10:33.63 [11468:12404:0119/101033.630:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:14:32.16 [11468:12404:0119/101432.160:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:19:55.93 [11468:12404:0119/101955.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:31:01.78 [11468:12404:0119/103101.786:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:41:01.80 [11468:12404:0119/104101.803:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 10:51:01.81 [11468:12404:0119/105101.814:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:01:01.82 [11468:12404:0119/110101.828:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:14:56.58 [11468:12404:0119/111456.587:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:24:56.59 [11468:12404:0119/112456.596:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:35:43.93 [13084:8856:0119/113543.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:35:44.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 11:36:13.02 [13084:8856:0119/113613.022:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:37:04.43 [13084:8856:0119/113704.437:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:38:42.52 [13084:8856:0119/113842.525:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:44:48.02 [11588:10756:0119/114448.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:44:48.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 11:45:17.38 [11588:10756:0119/114517.380:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:46:09.35 [11588:10756:0119/114609.352:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:48:01.51 [11588:10756:0119/114801.515:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:51:07.70 [11588:10756:0119/115107.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:55:01.22 [5700:4172:0119/115501.221:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:55:01.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 11:55:23.50 [5700:4172:0119/115523.508:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:56:17.17 [5700:4172:0119/115617.177:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:58:12.37 [5700:4172:0119/115812.371:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:59:11.39 [10932:8248:0119/115911.390:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 11:59:11.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 11:59:38.97 [10932:8248:0119/115938.979:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 12:00:32.54 [10932:8248:0119/120032.548:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 12:02:08.91 [10932:8248:0119/120208.917:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 12:05:06.55 [10932:8248:0119/120506.553:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 12:08:09.16 [14284:8316:0119/120809.163:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 12:08:09.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Jan 19, 2024 13:31:28.93 NEW SESSION
+Jan 19, 2024 13:31:28.98 [3164:8904:0119/133128.935:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 13:31:30.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 13:31:52.48 [3164:8904:0119/133152.485:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 13:32:44.22 [3164:8904:0119/133244.222:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 13:34:36.65 [3164:8904:0119/133436.654:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 13:37:20.73 [3164:8904:0119/133720.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 13:55:41.92 [3164:8904:0119/135541.927:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 19, 2024 19:40:48.52 NEW SESSION
+Jan 19, 2024 19:40:48.54 [5852:2092:0119/194048.520:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:40:49.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 19:41:15.15 [5852:2092:0119/194115.158:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:41:59.43 [5852:2092:0119/194159.432:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:43:36.29 [9916:4224:0119/194336.293:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:43:36.37 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 19:43:59.78 [9916:4224:0119/194359.788:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:44:52.74 [9916:4224:0119/194452.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:46:14.96 [9916:4224:0119/194614.963:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 19:49:48.06 [9916:4224:0119/194948.060:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 20:02:54.30 [9916:4224:0119/200254.301:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 20:06:20.84 [5040:6412:0119/200620.844:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 20:06:20.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2024 20:06:47.76 [5040:6412:0119/200647.761:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 20:07:35.45 [5040:6412:0119/200735.450:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 20:09:16.60 [5040:6412:0119/200916.604:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2024 20:12:17.43 [5040:6412:0119/201217.432:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Feb 05, 2024 12:55:44.52 NEW SESSION
+Feb 05, 2024 12:55:44.54 [2644:9476:0205/125544.521:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 12:55:44.54 [2644:9476:0205/125544.523:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 12:55:47.23 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 12:56:09.04 [2644:9476:0205/125609.042:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 12:56:13.37 [2644:9476:0205/125613.375:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 12:56:56.45 [2644:9476:0205/125656.455:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 12:57:05.48 [2644:9476:0205/125705.480:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 12:58:53.55 [2644:9476:0205/125853.554:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 12:58:55.19 [2644:9476:0205/125855.193:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:01:44.78 [2644:9476:0205/130144.787:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:02:28.98 [2644:9476:0205/130228.982:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:07:56.07 [2644:9476:0205/130756.074:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:08:04.34 [2644:9476:0205/130804.348:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:17:56.08 [2644:9476:0205/131756.088:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:18:04.36 [2644:9476:0205/131804.364:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:27:56.10 [2644:9476:0205/132756.109:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:28:04.38 [2644:9476:0205/132804.381:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:37:56.12 [2644:9476:0205/133756.119:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:38:04.38 [2644:9476:0205/133804.388:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:43:38.86 [9840:4076:0205/134338.866:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:43:38.86 [9840:4076:0205/134338.868:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:43:40.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 13:44:02.49 [9840:4076:0205/134402.499:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:44:06.30 [9840:4076:0205/134406.301:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:44:54.27 [1560:3856:0205/134454.275:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:44:54.27 [1560:3856:0205/134454.276:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:44:54.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 13:45:17.71 [1560:3856:0205/134517.713:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:45:18.63 [1560:3856:0205/134518.636:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:46:03.18 [1560:3856:0205/134603.183:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:46:08.35 [1560:3856:0205/134608.354:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:47:50.02 [1560:3856:0205/134750.023:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:47:52.22 [1560:3856:0205/134752.224:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:54:40.74 [4496:2064:0205/135440.742:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:54:40.74 [4496:2064:0205/135440.744:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 13:54:41.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 13:55:08.88 [4496:2064:0205/135508.887:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 13:55:09.07 [4496:2064:0205/135509.072:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+
+Feb 05, 2024 15:11:02.90 NEW SESSION
+Feb 05, 2024 15:11:02.92 [9504:3464:0205/151102.904:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:11:02.92 [9504:3464:0205/151102.905:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:11:05.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 15:11:30.59 [9504:3464:0205/151130.598:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:11:31.07 [9504:3464:0205/151131.078:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:12:17.23 [9504:3464:0205/151217.238:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:12:27.46 [9504:3464:0205/151227.462:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:13:55.55 [9504:3464:0205/151355.559:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:13:59.31 [9504:3464:0205/151359.316:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:17:18.50 [9504:3464:0205/151718.509:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:17:46.08 [9504:3464:0205/151746.081:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:23:29.14 [9504:3464:0205/152329.142:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:24:36.80 [9504:3464:0205/152436.806:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:34:02.37 [7544:2196:0205/153402.375:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:34:02.37 [7544:2196:0205/153402.376:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:34:03.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 15:34:24.42 [7544:2196:0205/153424.422:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:34:27.53 [7544:2196:0205/153427.536:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:35:09.30 [7544:2196:0205/153509.303:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:35:17.68 [7544:2196:0205/153517.681:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:36:51.33 [7544:2196:0205/153651.338:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:37:15.88 [7544:2196:0205/153715.881:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:40:28.11 [7544:2196:0205/154028.116:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:40:31.36 [7544:2196:0205/154031.360:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:46:36.85 [7544:2196:0205/154636.857:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:47:29.74 [7544:2196:0205/154729.739:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 15:56:36.87 [7544:2196:0205/155636.871:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 15:57:29.75 [7544:2196:0205/155729.755:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:02:06.51 [3104:8972:0205/160206.509:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:02:06.51 [3104:8972:0205/160206.511:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:02:07.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 16:02:33.21 [3104:8972:0205/160233.215:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:02:34.62 [3104:8972:0205/160234.622:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:03:28.96 [3104:8972:0205/160328.960:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:03:29.67 [3104:8972:0205/160329.673:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:05:14.91 [3104:8972:0205/160514.917:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:05:25.74 [3104:8972:0205/160525.741:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:08:36.77 [3104:8972:0205/160836.773:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:08:52.97 [3104:8972:0205/160852.970:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:12:31.85 [5324:5316:0205/161231.856:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:12:31.85 [5324:5316:0205/161231.857:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:12:33.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 16:12:56.33 [5324:5316:0205/161256.333:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:12:59.12 [5324:5316:0205/161259.123:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:13:37.81 [5324:5316:0205/161337.814:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:13:52.88 [5324:5316:0205/161352.882:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:15:24.57 [5324:5316:0205/161524.577:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:15:36.05 [5324:5316:0205/161536.058:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:17:31.82 [2392:11112:0205/161731.820:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:17:31.82 [2392:11112:0205/161731.821:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:17:32.17 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 16:17:56.33 [2392:11112:0205/161756.333:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:17:58.97 [2392:11112:0205/161758.975:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:18:50.55 [2392:11112:0205/161850.550:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:18:51.63 [2392:11112:0205/161851.638:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:20:20.06 [2392:11112:0205/162020.069:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:20:48.47 [2392:11112:0205/162048.471:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:23:24.49 [2392:11112:0205/162324.494:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:24:40.70 [2392:11112:0205/162440.701:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:30:18.12 [2392:11112:0205/163018.122:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:30:44.84 [2392:11112:0205/163044.846:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:40:18.13 [2392:11112:0205/164018.139:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:40:44.86 [2392:11112:0205/164044.863:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 16:50:18.15 [2392:11112:0205/165018.151:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 16:50:44.87 [2392:11112:0205/165044.871:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:00:32.63 [1872:10408:0205/170032.637:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:00:32.63 [1872:10408:0205/170032.638:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:00:32.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 17:00:53.72 [1872:10408:0205/170053.729:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:00:55.18 [1872:10408:0205/170055.182:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:01:01.87 [1872:4740:0205/170101.873:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 05, 2024 17:01:02.70 [1872:4740:0205/170102.700:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 05, 2024 17:01:03.33 [1872:4740:0205/170103.339:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 05, 2024 17:01:35.82 [1872:10408:0205/170135.828:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:01:38.93 [1872:10408:0205/170138.933:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:03:19.81 [1872:10408:0205/170319.816:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:03:23.05 [1872:10408:0205/170323.051:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:06:30.44 [1872:10408:0205/170630.445:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:07:21.70 [1872:10408:0205/170721.701:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:14:12.28 [1872:10408:0205/171412.289:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:14:41.17 [1872:10408:0205/171441.173:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:24:12.29 [1872:10408:0205/172412.299:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:25:17.19 [1160:2544:0205/172517.194:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:25:17.19 [1160:2544:0205/172517.195:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:25:17.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 17:25:42.98 [1160:2544:0205/172542.980:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:25:46.41 [1160:2544:0205/172546.415:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:26:31.01 [1160:2544:0205/172631.013:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:26:38.88 [1160:2544:0205/172638.880:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:28:28.70 [1160:2544:0205/172828.702:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:28:30.16 [1160:2544:0205/172830.166:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:31:21.60 [1160:2544:0205/173121.600:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 17:31:25.50 [1160:2544:0205/173125.503:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:54:19.13 [1160:2544:0205/175419.138:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 17:54:19.20 [1160:2544:0205/175419.201:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:03:17.84 [1356:11124:0205/180317.844:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:03:17.84 [1356:11124:0205/180317.845:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:03:18.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 05, 2024 18:03:43.90 [1356:11124:0205/180343.900:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:03:43.94 [1356:11124:0205/180343.945:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:04:32.70 [1356:11124:0205/180432.704:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:04:39.62 [1356:11124:0205/180439.626:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:06:08.60 [1356:11124:0205/180608.603:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:06:36.95 [1356:11124:0205/180636.959:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:09:19.62 [1356:11124:0205/180919.620:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:10:21.60 [1356:11124:0205/181021.605:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:16:35.18 [1356:11124:0205/181635.187:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:17:16.45 [1356:11124:0205/181716.452:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:26:35.19 [1356:11124:0205/182635.198:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:27:16.47 [1356:11124:0205/182716.469:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Feb 05, 2024 18:36:35.22 [1356:11124:0205/183635.224:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 05, 2024 18:37:16.48 [1356:11124:0205/183716.482:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+
+Feb 06, 2024 09:59:12.23 NEW SESSION
+Feb 06, 2024 09:59:12.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2024 09:59:30.68 [12524:11148:0206/095930.687:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Feb 06, 2024 09:59:33.36 [12524:10084:0206/095933.360:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 09:59:43.68 [12524:10084:0206/095943.686:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 06, 2024 09:59:44.15 [12524:10968:0206/095944.140:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Feb 06, 2024 09:59:45.69 [12524:10084:0206/095945.690:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:00:00.17 [12524:10968:0206/100000.170:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Feb 06, 2024 10:00:11.74 [12524:10084:0206/100011.740:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 06, 2024 10:00:13.66 [12524:10968:0206/100013.663:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Feb 06, 2024 10:00:43.53 [12524:10084:0206/100043.534:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 06, 2024 10:00:45.84 [12524:10084:0206/100045.843:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:00:45.92 [12524:9712:0206/100045.922:ERROR:device_event_log_impl.cc(192)] [10:00:45.918] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 06, 2024 10:14:45.79 [12524:10084:0206/101445.799:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:14:56.39 [12524:10084:0206/101456.391:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 06, 2024 10:14:58.40 [12524:10084:0206/101458.406:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:15:11.70 [12524:10084:0206/101511.701:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 06, 2024 10:35:03.05 [12524:10084:0206/103503.053:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:35:25.70 [12524:10084:0206/103525.700:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:36:08.51 [12524:10084:0206/103608.510:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:37:50.03 [12524:10084:0206/103750.034:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:40:47.75 [12532:13028:0206/104047.755:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:40:49.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2024 10:41:15.41 [12532:13028:0206/104115.414:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:41:58.10 [12532:13028:0206/104158.100:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:43:24.48 [12532:13028:0206/104324.482:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:46:18.90 [12532:13028:0206/104618.906:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 10:52:28.31 [12532:13028:0206/105228.313:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:04:32.20 [12532:13028:0206/110432.207:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:14:32.23 [12532:13028:0206/111432.233:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:18:15.72 [9896:8784:0206/111815.724:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:18:17.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2024 11:18:40.58 [9896:8784:0206/111840.585:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:19:33.84 [9896:8784:0206/111933.845:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:21:06.18 [9896:8784:0206/112106.188:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:22:35.04 [9896:8784:0206/112235.046:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:29:47.09 [9896:8784:0206/112947.094:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:39:47.10 [9896:8784:0206/113947.100:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 11:56:45.87 [9896:8784:0206/115645.870:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Feb 06, 2024 13:10:31.75 NEW SESSION
+Feb 06, 2024 13:10:31.80 [4188:4208:0206/131031.753:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:10:33.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2024 13:10:54.32 [4188:4208:0206/131054.329:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:11:37.62 [4188:4208:0206/131137.628:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:13:26.25 [4188:4208:0206/131326.250:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:16:51.83 [4188:4208:0206/131651.832:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Feb 06, 2024 13:32:30.97 NEW SESSION
+Feb 06, 2024 13:32:30.98 [9360:9400:0206/133230.971:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:32:32.42 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2024 13:32:51.10 [9360:9400:0206/133251.103:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:33:43.28 [9360:9400:0206/133343.280:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:55:46.60 [9636:1868:0206/135546.602:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:55:47.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2024 13:56:09.20 [9636:1868:0206/135609.206:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:56:53.93 [9636:1868:0206/135653.932:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 13:58:20.95 [9636:1868:0206/135820.951:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 14:02:02.43 [9636:1868:0206/140202.437:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 14:08:26.35 [9636:1868:0206/140826.349:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 06, 2024 14:18:26.36 [9636:1868:0206/141826.366:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Feb 07, 2024 11:41:26.53 NEW SESSION
+Feb 07, 2024 11:41:26.57 [8044:11868:0207/114126.530:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 07, 2024 11:41:27.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 07, 2024 11:41:54.19 [8044:11868:0207/114154.192:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 07, 2024 11:42:36.49 [8044:11868:0207/114236.493:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 07, 2024 11:44:15.09 [8044:11868:0207/114415.097:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 07, 2024 11:48:09.85 [8044:11868:0207/114809.858:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 07, 2024 11:53:36.86 [8044:11868:0207/115336.868:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 07, 2024 12:02:51.56 [8044:6720:0207/120251.568:ERROR:device_event_log_impl.cc(192)] [12:02:51.568] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 07, 2024 12:03:36.88 [8044:11868:0207/120336.886:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Feb 13, 2024 09:06:42.57 NEW SESSION
+Feb 13, 2024 09:06:42.63 [11216:2580:0213/090642.573:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 09:06:45.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 13, 2024 09:07:10.54 [11216:2580:0213/090710.548:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 09:08:04.93 [11216:2580:0213/090804.931:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 09:10:01.50 [11216:2580:0213/091001.500:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 09:13:42.34 [11216:2580:0213/091342.345:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 09:20:10.52 [11216:2580:0213/092010.527:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 09:20:21.05 [11216:2580:0213/092021.046:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 11:23:22.71 [11216:2580:0213/112322.713:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 13, 2024 11:23:23.40 [11216:2580:0213/112323.404:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 11:23:28.09 [11216:2580:0213/112328.099:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 11:24:11.87 [11216:2580:0213/112411.873:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 11:25:35.85 [11216:2580:0213/112535.859:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 11:56:56.56 [11216:2580:0213/115656.565:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 12:01:11.68 [11216:9052:0213/120111.682:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 13, 2024 12:01:12.39 [11216:9052:0213/120112.397:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 13, 2024 12:04:34.74 [11216:2580:0213/120434.743:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 12:14:34.75 [11216:2580:0213/121434.750:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 12:24:34.77 [11216:2580:0213/122434.770:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Feb 13, 2024 15:46:55.13 NEW SESSION
+Feb 13, 2024 15:46:55.16 [1816:3396:0213/154655.137:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 15:46:55.83 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 13, 2024 15:51:22.69 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 13, 2024 16:30:01.56 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#56 is a dynamic-sized tensor).
+Feb 13, 2024 16:50:51.87 [14300:8440:0213/165051.873:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 13, 2024 16:50:51.96 [14300:8440:0213/165051.969:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 18:28:35.31 [14300:8440:0213/182835.296:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 13, 2024 18:28:35.99 [14300:8440:0213/182835.994:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 18:42:16.17 [14300:8440:0213/184216.172:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 13, 2024 18:51:33.29 [14300:8440:0213/185133.297:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 13, 2024 18:51:37.27 [14300:13356:0213/185137.274:ERROR:device_event_log_impl.cc(192)] [18:51:37.279] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 13, 2024 19:22:28.59 [14300:8440:0213/192228.597:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Feb 13, 2024 19:22:29.91 [14300:8440:0213/192229.913:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:22:32.02 [14300:8440:0213/192232.024:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:23:26.97 [14300:8440:0213/192326.961:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:25:10.15 [14300:8440:0213/192510.151:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:28:54.99 [14300:8440:0213/192854.990:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:33:25.86 [14300:8440:0213/193325.865:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:37:13.22 [14300:8440:0213/193713.221:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:38:10.88 [14300:8440:0213/193810.882:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:44:21.42 [14300:8440:0213/194421.425:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:44:34.24 [14300:13356:0213/194434.243:ERROR:device_event_log_impl.cc(192)] [19:44:34.243] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 13, 2024 19:44:34.28 [14300:8440:0213/194434.288:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 19:44:43.88 [14300:8440:0213/194443.887:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:44:46.32 [14300:8440:0213/194446.325:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:45:44.76 [14300:8440:0213/194544.761:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 19:46:58.75 [14300:8440:0213/194658.755:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:48:57.24 [14300:8440:0213/194857.240:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:49:17.47 [14300:8440:0213/194917.477:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 19:51:22.82 [14300:2452:0213/195122.827:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Feb 13, 2024 20:21:10.68 [14300:8440:0213/202110.682:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+
+Feb 13, 2024 22:20:26.09 NEW SESSION
+Feb 13, 2024 22:20:26.11 [6556:7364:0213/222026.088:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:20:27.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 13, 2024 22:20:48.32 [6556:7364:0213/222048.323:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:21:39.99 [6556:7364:0213/222139.994:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:23:22.32 [6556:7364:0213/222322.322:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:27:18.32 [6556:7364:0213/222718.321:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:33:19.94 [6556:7364:0213/223319.949:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:43:19.95 [6556:7364:0213/224319.959:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 22:53:19.96 [6556:7364:0213/225319.966:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 23:03:19.97 [6556:7364:0213/230319.978:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 23:13:20.07 [6556:7364:0213/231320.077:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 13, 2024 23:17:17.23 [6556:7364:0213/231717.237:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 13, 2024 23:49:50.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 25, 2024 18:55:19.38 NEW SESSION
+Mar 25, 2024 18:55:19.41 [10864:15340:0325/185519.385:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 18:55:19.41 [10864:15340:0325/185519.387:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 18:55:21.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2024 18:56:43.58 [9984:14280:0325/185643.584:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 18:56:43.58 [9984:14280:0325/185643.585:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 18:56:44.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2024 18:57:04.69 [9984:14280:0325/185704.694:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 18:57:08.09 [9984:14280:0325/185708.093:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 18:57:51.92 [9984:14280:0325/185751.928:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 18:57:53.36 [9984:14280:0325/185753.364:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 19:12:09.94 [18652:15856:0325/191209.947:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 19:12:09.94 [18652:15856:0325/191209.947:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 19:12:10.93 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 25, 2024 19:12:35.12 [18652:15856:0325/191235.120:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 19:12:37.48 [18652:15856:0325/191237.485:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 19:13:17.78 [18652:15856:0325/191317.783:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 19:13:25.90 [18652:15856:0325/191325.909:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 19:14:47.00 [18652:15856:0325/191447.001:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 19:14:49.08 [18652:15856:0325/191449.086:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Mar 25, 2024 20:21:57.84 [18652:15856:0325/202157.846:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 25, 2024 20:21:57.92 [18652:15856:0325/202157.922:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+
+Apr 19, 2024 15:06:01.18 NEW SESSION
+Apr 19, 2024 15:06:01.18 Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 19, 2024 15:06:01.22 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#141 is a dynamic-sized tensor).

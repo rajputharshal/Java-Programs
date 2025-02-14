@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+.abc{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px;
+	width: 500px;
+	background-color: tomato;
+	border-radius: 10px;
+	margin-top: 150px;
+	margin-left: 500px;
+	padding: 50px;
+}
+.abc input{
+	border-radius: 8px;
+	height: 40px;
+	font-size: 22pt;
+	width: 400px;
+}

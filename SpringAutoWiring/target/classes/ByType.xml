@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+"https://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+<bean id="pjj" class="autowiringPack.PojoClass">
+<property name="id" value="1"/>
+<property name="name" value="ram"/>
+<property name="sal" value="108"/>
+</bean>
+<bean id="p" class="autowiringPack.ByTypeObject" autowire="byName">
+</bean>
+</beans>

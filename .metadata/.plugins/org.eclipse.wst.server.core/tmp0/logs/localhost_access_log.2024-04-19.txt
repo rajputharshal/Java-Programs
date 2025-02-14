@@ -1,0 +1,9 @@
+127.0.0.1 - - [19/Apr/2024:15:04:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:04:54 +0530] "GET /Hospital_Portal/index.jsp HTTP/1.1" 200 7657
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:04:54 +0530] "GET /Hospital_Portal/image/doc.jpg HTTP/1.1" 200 16213179
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:04:54 +0530] "GET /Hospital_Portal/image/doc3.jpg HTTP/1.1" 200 10684121
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:04:54 +0530] "GET /Hospital_Portal/image/hos.jpg HTTP/1.1" 200 337700
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:04:55 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [19/Apr/2024:15:05:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:05:58 +0530] "GET /Hospital_Portal/User_Login.jsp HTTP/1.1" 200 3773
+0:0:0:0:0:0:0:1 - - [19/Apr/2024:15:05:58 +0530] "GET /favicon.ico HTTP/1.1" 404 762

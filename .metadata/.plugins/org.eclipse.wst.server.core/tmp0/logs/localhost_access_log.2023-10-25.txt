@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Oct/2023:13:38:46 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [25/Oct/2023:13:38:52 +0530] "GET /Servlet_Hotel_management/admin.html HTTP/1.1" 200 379
+127.0.0.1 - - [25/Oct/2023:13:38:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [25/Oct/2023:19:32:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:19:32:58 +0530] "GET /Servlet_Hotel_management/admin.html HTTP/1.1" 200 383
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:19:32:59 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:19:42:34 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [25/Oct/2023:20:03:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:20:04:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:20:05:37 +0530] "GET /Servlet_Hotel_management/admin.html HTTP/1.1" 200 393
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:20:05:48 +0530] "GET /Servlet_Hotel_management/loginpage?name=odf&password=shd&sub=login HTTP/1.1" 200 5
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:20:06:47 +0530] "GET /Servlet_Hotel_management/loginpage?name=ram&password=ram&sub=login HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:20:08:47 +0530] "GET /Servlet_Hotel_management/admin.html HTTP/1.1" 200 465
+0:0:0:0:0:0:0:1 - - [25/Oct/2023:20:08:57 +0530] "GET /Servlet_Hotel_management/loginpage?name=ram&password=ram&sub=login HTTP/1.1" 200 17
