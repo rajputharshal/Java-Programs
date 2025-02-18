@@ -1,0 +1,24 @@
+package ArratPack;
+
+public class Second_Max_Array {
+
+	public static void main(String[] args) {
+		int array[]= {33,22,77,12,9,23};
+		for(int i=0;i<array.length;i++)
+		{
+			int a,b;
+			if(array[i]<array[i+1])
+			{
+				a=array[i];
+				b=array[i+1];
+				array[i]=b;
+				array[i+1]=a;
+			}
+		}
+		for(int i=0;i<array.length;i++)
+		{
+			System.out.println(array[i]);
+		}
+	}
+
+}
